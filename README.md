@@ -11,6 +11,6 @@ Output: a text file (filename_hexdump.txt) with the formatted hexdump
 
 # Example
 
-hexdump.py profile.jpg
+hexdump.py r2w_mileage.png
 
-see "profile.jpg_hexdump.txt" for sample output
+see "r2w_mileage.png_hexdump.txt" for sample output
